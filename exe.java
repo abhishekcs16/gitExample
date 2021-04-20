@@ -4,7 +4,7 @@ public class ScannerEx {
 		
 		System.out.println("Which is Your Branch");
 		String st = sc.next();
-		System.out.println("My Branch Is : "+st);
+		System.out.println("My Branch Is this : "+st);
 	}
 }
 
