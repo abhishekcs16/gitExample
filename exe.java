@@ -1,4 +1,4 @@
-public class ScannerEx {
+public class exe {
 	
 	public static void main(String branch[]){
 		
